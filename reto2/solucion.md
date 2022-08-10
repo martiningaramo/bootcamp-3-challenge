@@ -1,6 +1,6 @@
 # Clase 4 - Docker
 
-## 2. Ejercicio - Trabajo con imágenes
+## Reto 2
 
 ### Servidor de base de datos
 

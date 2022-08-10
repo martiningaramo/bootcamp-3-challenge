@@ -1,6 +1,6 @@
 # Clase 4 - Docker
 
-### Ejercicio 3
+### Reto 3
 
 #### Crea un contenedor con las siguientes especificaciones:
 ![Esta es una imagen](01.png)
